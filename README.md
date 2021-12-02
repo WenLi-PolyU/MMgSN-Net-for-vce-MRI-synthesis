@@ -1,0 +1,1 @@
+# MMgSN-Net-for-vce-MRI-synthesis
